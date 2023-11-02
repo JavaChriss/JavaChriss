@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JavaChriss
+- 👋 Hi, I’m Chris (JavaChriss as there is another Chris)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 📫 How to reach me @nettergedanke@knowscore.social
